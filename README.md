@@ -1,1 +1,1 @@
-# 1stop-Industrial-training-with-IIT-Bhubaneswar
+# Diabetes prediction using ML
